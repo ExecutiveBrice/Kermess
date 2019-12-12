@@ -7,13 +7,13 @@
     "dialect": "postgres"
   },
   "test": {
-    "username": "twokvaufgcmtfg",
-    "password": "dae54e722eb25febc31e24e7266cb9641557e079761ecbfa4f3bd7219450be9d",
-    "database": "de57mm5jfeniae",
-    "host": "ec2-54-75-245-196.eu-west-1.compute.amazonaws.com",
+    "username": "ylsnechbtzagbz",
+    "password": "40715ac7c2d52637d16197bcc9b8ab3a16c71b2e5e49b437b3c1711cd5a6e500",
+    "database": "d4833h3osulqcn",
+    "host": "ec2-54-228-243-238.eu-west-1.compute.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
-    "use_env_variable": "postgres://twokvaufgcmtfg:dae54e722eb25febc31e24e7266cb9641557e079761ecbfa4f3bd7219450be9d@ec2-54-75-245-196.eu-west-1.compute.amazonaws.com:5432/de57mm5jfeniae"
+    "use_env_variable": "postgres://ylsnechbtzagbz:40715ac7c2d52637d16197bcc9b8ab3a16c71b2e5e49b437b3c1711cd5a6e500@ec2-54-228-243-238.eu-west-1.compute.amazonaws.com:5432/d4833h3osulqcn"
   }
 }
