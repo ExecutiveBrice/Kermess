@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://ouchedinier.herokuapp.com'
+  apiUrl: 'http://90.105.98.204:8080'
 };
